@@ -1,1 +1,2 @@
-# custom-Input-switch
+# custom-input-switch
+![thumbnail](./thumbnail.png)
